@@ -1,0 +1,24 @@
+name: HealAndFeed
+version: '1.0'
+main: iceboatracer.haF.HealandFeedPlugin
+api-version: '1.21'
+authors: [ dreammister2 ]
+description: This is my first plugin - dreammister2 made by czech.
+
+commands:
+  heal:
+    description: Heal yourself
+    usage: /heal
+    aliases: [hafheal, haf-heal, eheal]
+  feed:
+    description: Feed yourself
+    usage: /feed
+    aliases: [haffeed, haf-feed, efeed]
+
+permissions:
+  haf.heal:
+    default: false
+  haf.feed:
+    default: false
+  haf.exemptcooldown:
+    default: op
