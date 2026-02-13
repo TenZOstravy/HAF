@@ -1,6 +1,8 @@
 # HAF
 Perrmission Heal &amp; Feed
 
+if you have any question or problem message me on discord: dream29040
+
 plugin made by dreammister2
  This is my first plugin - hope you likes it.
 
