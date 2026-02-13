@@ -1,0 +1,13 @@
+commands:
+  heal: "heal"
+  feed: "feed"
+
+cooldowns:
+  healSeconds: 600   # 10 minutes
+  feedSeconds: 300   # 5 minutes
+
+messages:
+  healed: "&aYou have been healed!"
+  feeded: "&aYou have been feeded!"
+  cooldown: "&cPlease wait %remaintime%"
+  noPermission: "&cYou do not have permission!"
